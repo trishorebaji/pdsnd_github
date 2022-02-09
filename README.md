@@ -7,7 +7,7 @@ this project was created feb 09
 bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+it will print the bike share data 
 
 ### Files used
 Include the files used
