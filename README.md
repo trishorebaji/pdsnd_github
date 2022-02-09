@@ -10,7 +10,7 @@ bikeshare.py
 it will print the bike share data 
 
 ### Files used
-Include the files used
+in this I used the bikeshare.py file, and using this we solve this problem
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
