@@ -188,6 +188,7 @@ def display_data(df):
         start_loc += 5
         view_data = input("Do you wish to continue?: ").lower()
         if view_data!='yes':
+            print("view_data")
             break
 
 
@@ -204,6 +205,7 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print(restart.lower())
             break
         
 
